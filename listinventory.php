@@ -1,14 +1,14 @@
 <?php
 /**
- * @package Hello_Dolly
- * @version 1.6
+ * @package List_Inventory
+ * @version 0.1
  */
 /*
-Plugin Name: Hello Dolly
-Plugin URI: https://wordpress.org/plugins/hello-dolly/
-Description: This is not just a plugin, it symbolizes the hope and enthusiasm of an entire generation summed up in two words sung most famously by Louis Armstrong: Hello, Dolly. When activated you will randomly see a lyric from <cite>Hello, Dolly</cite> in the upper right of your admin screen on every page.
-Author: Matt Mullenweg
-Version: 1.6
-Author URI: https://ma.tt/
-Text Domain: hello-dolly
+Plugin Name: Insitefuldesign Inventory Manager
+Plugin URI: https://www.insitefuldesign.com/inventory
+Description: This plugin is designed to list vehicle inventory on a website powered by Wordpress
+Author: Jason James
+Version: 0.1
+Author URI: https://www.insitefuldesign.com
+Text Domain: inventorymanager/listinventory.php
 */
