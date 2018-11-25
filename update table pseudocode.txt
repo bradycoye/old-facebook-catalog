@@ -1,0 +1,24 @@
+Copy VIN to vehicle_id
+insert VIN
+insert state_of_vehicle to ENUM (New, Used, CPO)
+insert year
+insert make
+insert model
+insert trim
+insert title
+change body_style to ENUM (Convertible, Coupe, Hatchback, Sedan, Minivan, Truck, SUV, Wagon, Crossover, Other) and insert
+insert exterior_color
+insert mileage.value
+insert mileage.unit
+insert price
+change transmission to ENUM (Automatic, Manual) and insert
+change drivetrain to ENUM (4X2,4X4, AWD, FWD, RWD, OTHER)
+insert description
+insert image[0].url
+insert url
+insert dealer_name
+insert dealer_phone
+insert postal_code
+insert address
+insert longitude
+insert latitude

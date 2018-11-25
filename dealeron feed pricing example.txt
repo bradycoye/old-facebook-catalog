@@ -1,0 +1,10 @@
+max systems/firstlook new:internal sale price: 0
+|max systems/firstlook new:sellingprice: 30550
+|max systems/firstlook new:manufacturerrebate: 0
+|max systems/firstlook new:lotprice: 32620
+|max systems/firstlook new:bluebook: 0
+|msrp: 32620
+|max systems/firstlook new:msrp: 32620
+|fca:msrp: 32620
+|max systems/firstlook new:dealerdiscount: 1108
+|max systems/firstlook new:invoiceamount: 31658
